@@ -7,21 +7,31 @@ I recently earned my B.S. in Data Science with a concentration in Computational 
 ## Featured Projects
 
 ### Retail Fixture Optimization Case Study
+
 Award-winning senior practicum project focused on optimizing retail fixture space allocation across stores, product subcategories, and planning periods. My contribution focused on the optimization model, stable vs. flexible fixture allocation logic, demand-based prioritization, and translating model outputs into stakeholder-facing recommendations.
 
 **Skills:** Optimization Modeling · R · data.table · lpSolve · Business Analytics · Data Visualization · Stakeholder Communication
 
+### EV Fleet Optimizer
+
+Optimization project comparing EV, gas, and hybrid taxi fleet strategies under budget, fleet size, regional operating cost, and EV feasibility constraints.
+
+**Skills:** Python · Jupyter Notebook · Optimization Modeling · Scenario Analysis · pandas · Business Analytics
+
 ### Concert Ticket Database App
+
 Flask and PostgreSQL web application for managing concert ticket sales, artists, venues, customers, purchases, and revenue analytics. Includes reporting features such as customer spending, top artists by revenue, and venue performance.
 
 **Skills:** Python · Flask · PostgreSQL · SQL · HTML/CSS · Render · Database Design
 
 ### Machine Learning Projects
+
 Collection of machine learning projects covering custom classifiers, multilayer perceptrons, model evaluation, CNN image classification, preprocessing pipelines, and presentation-ready evaluation visuals.
 
 **Skills:** Python · Jupyter Notebook · scikit-learn · Neural Networks · CNNs · Model Evaluation
 
 ### Photon Laser Tag System
+
 Python desktop application for managing laser tag matches, player entry, PostgreSQL player records, UDP game traffic, live scoring, audio, and operator UI.
 
 **Skills:** Python · PyQt5 · PostgreSQL · UDP Networking · UI Development · Team Project Documentation
