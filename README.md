@@ -30,7 +30,7 @@ Collection of machine learning projects covering custom classifiers, multilayer 
 
 **Skills:** Python · Jupyter Notebook · scikit-learn · Neural Networks · CNNs · Model Evaluation
 
-### Photon Laser Tag System
+### Laser Tag Game Management System
 
 Python desktop application for managing laser tag matches, player entry, PostgreSQL player records, UDP game traffic, live scoring, audio, and operator UI.
 
@@ -57,7 +57,7 @@ I enjoy projects where data is used to make practical decisions, such as allocat
 My strongest experience is at the intersection of data science, optimization, and business analytics. In my senior practicum, my team won Best Overall Project for a retail fixture-space optimization project, where my contribution focused on optimization modeling, allocation constraints, and stakeholder-facing recommendations.
 
 **How do I approach a data project?**  
-I start by defining the business question, then work through data cleaning, exploratory analysis, modeling, validation, and communication. I try to make sure the final result is not just technically correct, but also understandable and useful.
+I start by defining the business question, then work through data cleaning, exploratory analysis, modeling, validation, and communication. I try to make sure the final result is not just technically correct, but also understandable and useful to the people making decisions.
 
 ## Links
 
